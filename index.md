@@ -76,9 +76,7 @@ others.
 Applying WCAG-EM successfully requires knowledge of WCAG, accessible web
 design, assistive technologies, and how people with different
 disabilities use the Web (as described in the WCAG-EM [Required
-Expertise ![technical
-report](/Icons/tr.png)](http://www.w3.org/TR/WCAG-EM/#expertise)
-section).
+Expertise ![technical report](/Icons/tr.png)](http://www.w3.org/TR/WCAG-EM/#expertise) section).
 
 What is in WCAG-EM {#whatis}
 -----------------------------
