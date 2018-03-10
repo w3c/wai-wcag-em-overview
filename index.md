@@ -62,7 +62,7 @@ Other aspects of evaluation are addressed in related pages of the
 resource suite. For example, guidance to help you better understand
 real-world accessibility issues and evaluate effective accessibility
 solutions is in [Involving Users in Evaluating Web
-Accessibility](http://www.w3.org/WAI/eval/users).
+Accessibility]({{ "/test-evaluate/involving-users/" | relative_url }}).
 
 Who WCAG-EM is for {#for}
 --------------------------
