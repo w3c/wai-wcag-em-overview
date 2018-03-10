@@ -32,7 +32,7 @@ Introduction
 
 Website Accessibility Conformance Evaluation Methodology (WCAG-EM) is an
 approach for determining how well a website conforms to Web Content
-Accessibility Guidelines ([WCAG](http://www.w3.org/WAI/intro/wcag)).
+Accessibility Guidelines ([WCAG]({{ "/standards-guidelines/wcag/" | relative_url }})).
 
 If you want to get a general sense of how a web page addresses a few
 accessibility issues, see [Easy Checks - A First Review of Web
