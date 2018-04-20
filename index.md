@@ -1,5 +1,7 @@
 ---
-title: Website Accessibility Conformance Evaluation Methodology (WCAG-EM)
+title: "WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology"
+title_html: "WCAG-EM Overview:<br>Website Accessibility Conformance Evaluation Methodology"
+nav_title: "WCAG-EM Conformance Methodology"
 permalink: /test-evaluate/conformance/wcag-em/
 github:
   repository: w3c/wai-wcag-em-overview
