@@ -15,7 +15,7 @@ Quick links:
 -   [Website Accessibility Conformance Evaluation Methodology (WCAG-EM)](http://www.w3.org/TR/WCAG-EM/)
 -   [WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator](http://www.w3.org/WAI/eval/report-tool/#/)
 
-{::options toc_levels="2,3" /}
+{::options toc_levels="2" /}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" %}
