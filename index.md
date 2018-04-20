@@ -10,10 +10,20 @@ footer: >
   Editors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Developed with the Education and Outreach Working Group (<a href="/WAI/EO/">EOWG</a>) and the WCAG 2.0 Evaluation Methodology Task Force (<a href="https://www.w3.org/WAI/ER/2011/eval/eval-tf">Eval TF</a>).</p>
 ---
 
-Quick links:
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+
+This page introduces the Website Accessibility Conformance Evaluation Methodology (WCAG-EM).
+
+Quick links to the resources:
 
 -   [Website Accessibility Conformance Evaluation Methodology (WCAG-EM)](http://www.w3.org/TR/WCAG-EM/)
 -   [WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator](http://www.w3.org/WAI/eval/report-tool/#/)
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 {::options toc_levels="2" /}
 
