@@ -6,8 +6,10 @@ permalink: /test-evaluate/conformance/wcag-em/
 github:
   repository: w3c/wai-wcag-em-overview
 footer: >
-  <p><strong>Status: </strong>Updated 15 December 2016. (originally "Conformance Evaluation of Web Sites for Accessibility" published in September 2005) <br>
-  Editors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Developed with the Education and Outreach Working Group (<a href="/WAI/EO/">EOWG</a>) and the WCAG 2.0 Evaluation Methodology Task Force (<a href="https://www.w3.org/WAI/ER/2011/eval/eval-tf">Eval TF</a>).</p>
+  <p><strong>Date:</strong> Updated 15 December 2016. First published as "Conformance Evaluation of Web Sites for Accessibility"  in September 2005.</p>
+  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the WCAG 2.0 Evaluation Methodology Task Force (<a href="https://www.w3.org/WAI/ER/2011/eval/eval-tf">Eval TF</a>).</p>
+
 ---
 
 {::nomarkdown}
