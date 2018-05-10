@@ -50,7 +50,7 @@ Accessibility Guidelines ([WCAG]({{ "/standards-guidelines/wcag/" | relative_url
 
 If you want to get a general sense of how a web page addresses a few
 accessibility issues, see [Easy Checks - A First Review of Web
-Accessibility]({{"/test-eval/preliminary/" | relative_url }}). It is
+Accessibility]({{"/test-evaluate/preliminary/" | relative_url }}). It is
 usually best to do preliminary checks before applying WCAG-EM, and to
 address potential accessibility barriers before investing in a more
 thorough review such as WCAG-EM.
