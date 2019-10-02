@@ -37,6 +37,11 @@ remote_theme: w3c/wai-website-theme
 collections:
 
 defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
 
 
 plugins:
@@ -45,3 +50,4 @@ plugins:
   - jekyll-redirect-from
   - jekyll-include-cache
   - jekyll-remote-theme
+  - wai-website-plugin
