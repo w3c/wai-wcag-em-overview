@@ -33,6 +33,8 @@ Quick links to the resources:
 {% include_cached toc.html levels="2" %}
 
 
+## <img src="https://www.w3.org/WAI/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" alt="" style="height: 2em; border-radius: .25em; vertical-align: middle;">Video Introduction
+
 ## Introduction
 {:#intro.no_toc}
 
