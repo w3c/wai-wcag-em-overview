@@ -37,17 +37,17 @@ Quick links to the resources:
 
 {% include excol.html type="start" id="video-intro" %}
 
-## <img src="https://www.w3.org/WAI/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" alt="" style="height: 2em; border-radius: .25em; vertical-align: middle;"> Video: Web Accessibility Conformance Evaluation Overview
+## {% include image.html src="video-thumb-conformance.png" alt="" class="video tiny" %} Video: Comprehensive Evaluation {#video}
 
 {% include excol.html type="middle" %}
 
 {% include video-player.html
-    yt-id="93UgG72os8M"
-    captions="/keyboard-en.vtt|en|Captions"
+    yt-id="wlCcDnL-evE"
+    captions="https://media.w3.org/wai/evaluation-intros/conformance-evaluation-cc.vtt"
     descriptions=""
 %}
 
-_This video is also available on a [W3C server (file format: MP4, file size: 2MB) - Web Accessibility Conformance Evaluation Overview](https://@@)._
+_This video is also available on a [W3C server (file format: MP4, file size: 30MB) - Comprehensive Evaluation](http://media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4)._
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
@@ -64,46 +64,75 @@ Text Transcript with Description of Visuals
   </thead>
   <tbody>
     <tr>
-      <td>Web Accessibility Perspectives: Keyboard Compatibility</td>
-      <td>Web Accessibility Perspectives:<br />
-        Keyboard Compatibility</td>
+      <td>Web accessibility conformance evaluation. </td>
+      <td>Web accessibility conformance evaluation.</td>
     </tr>
     <tr>
-      <td>Not being able to use your computer because your mouse doesn't work, is frustrating.</td>
-      <td>A man drops his computer mouse off the desk. The computer mouse no longer works.</td>
+      <td>Conformance evaluation determines how well your content meets specific accessibility standards, such as the "W3C Web Content Accessibility Guidelines", or "WCAG" for short. </td>
+      <td>Conformance evaluation. A progress bar is filled until meets the WCAG.</td>
     </tr>
     <tr>
-      <td>Many people use only the keyboard to navigate websites &mdash; either through preference or circumstance.<br /></td>
-      <td>&nbsp;</td>
+      <td>Often you'll want to do conformance evaluation:
+        <ul>
+          <li> as a final check before releasing a product</li>
+          <li> in order to provide information to potential purchasers of your product</li>
+          <li> to regularly monitor the accessibility of your website</li>
+          <li> before procuring a product</li>
+        </ul></td>
+      <td>Icons for each stage: open box with a check mark; round "i"; magnifying glass on a computer; and shopping trolley.</td>
     </tr>
     <tr>
-      <td>Whether it's temporarily limited mobility,</td>
-      <td>A woman with her arm in a sling is typing on a keyboard &mdash; but the website requires the use of a mouse to select the date.</td>
+      <td>(continued list)
+        <ul>
+          <li> and when getting started with implementing accessibility, to get a list of accessibility issues that you need to address.</li>
+        </ul></td>
+      <td>All icons are integrated in a skyrocket icon. A document with the list of accessibility issues.</td>
     </tr>
     <tr>
-      <td>a permanent physical disability,</td>
-      <td>A man with a wheelchair is using a mouth-stick to type.</td>
+      <td>To do effective conformance evaluation, you need expertise in:
+        <ul>
+          <li> accessibility standards</li>
+          <li> accessible web design and development</li>
+          <li> assistive technologies</li>
+          <li> and how people with disabilities use the Web.</li>
+        </ul></td>
+      <td>Icons are shown in turn: conformation evaluation words; award ribbon; paint brush and coding icon; assistive technologies icons; and finally people figures.</td>
     </tr>
     <tr>
-      <td>or simply a broken mouse,<br />
-        the result is the same:</td>
-      <td>The man with the wheelchair also cannot use the site.</td>
+      <td>You'll probably also want to use evaluation tools to be more efficient. </td>
+      <td>A tool box with a gauge moving up.</td>
     </tr>
     <tr>
-      <td>Websites and apps need to be operable by keyboard.</td>
-      <td>He switches to a different website that allows typing the date.</td>
+      <td>"WCAG-EM", the "Website Accessibility Conformance Evaluation Methodology", provides a structure for your evaluation process. </td>
+      <td>WCAG-EM, Website Accessibility Conformance Evaluation Methodology. A magnifying glass with the word accessibility.</td>
     </tr>
     <tr>
-      <td>Web accessibility: Essential for some, useful for all.</td>
-      <td>&nbsp;</td>
+      <td>It describes a process to:
+        <ul>
+          <li> define the scope of your evaluation</li>
+          <li> explore your website assets</li>
+          <li> select a representative sample of web pages from your website</li>
+          <li> evaluate the selected sample</li>
+          <li> and report your evaluation findings.</li>
+        </ul></td>
+      <td>Text boxes load one after the other: define scope; explore assets; select sample; evaluate sample; and report findings.</td>
     </tr>
     <tr>
-      <td>Visit w3.org/WAI/perspectives for more information on Keyboard Compatibility</td>
-      <td>Visit<br />
-        w3.org/WAI/perspectives<br />
-        for more information on<br />
-        Keyboard Compatibility.<br />
-        W3C Web Accessibility Initiative logo</td>
+      <td>WCAG-EM also recommends involving real users with disabilities during evaluation, to help you address the real-life experience of your website users. </td>
+      <td>A person in front of a computer displaying a website. Passes and fails are marked.</td>
+    </tr>
+    <tr>
+      <td>The open source WCAG-EM Report Tool helps you follow the methodology, record the outcomes, and download a report of your evaluation. </td>
+      <td>WCAG-EM Report Tool. A progress bar shows the various stages of the evaluation methodology. A record document is displayed in the computer screen and downloaded.
+      </td>
+    </tr>
+    <tr>
+      <td>Web accessibility: essential for some, useful for all. </td>
+      <td>Icons around a computer: hand; eye; brain; ear; and mouth with sound waves.</td>
+    </tr>
+    <tr>
+      <td>For information on web accessibility conformance evaluation, visit w3.o-r-g/W-A-I/evaluation. </td>
+      <td>Conformance Evaluation, W3C and Web Accessibility Initiative (WAI) logos.</td>
     </tr>
   </tbody>
 </table>
