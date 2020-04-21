@@ -9,9 +9,10 @@ github:
   repository: w3c/wai-wcag-em-overview
   path: content/index.md
 footer: >
-  <p><strong>Date:</strong> Updated 15 December 2016. First published as "Conformance Evaluation of Web Sites for Accessibility"  in September 2005.</p>
-  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the WCAG 2.0 Evaluation Methodology Task Force (<a href="https://www.w3.org/WAI/ER/2011/eval/eval-tf">Eval TF</a>).</p>
+  <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
+  <p><strong>Date:</strong> Updated 28 April 2020. First published as "Conformance Evaluation of Web Sites for Accessibility" in September 2005.</p>
+  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the WCAG 2.0 Evaluation Methodology Task Force (<a href="https://www.w3.org/WAI/ER/2011/eval/eval-tf">Eval TF</a>). Video developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="./acknowledgements/">Acknowledgements</a>.</p>
 
 ---
 
@@ -37,17 +38,17 @@ Quick links to the resources:
 
 {% include excol.html type="start" id="video-intro" %}
 
-## {% include image.html src="video-thumb-conformance.png" alt="" class="video tiny" %} Video: Comprehensive Evaluation {#video}
+## {% include image.html src="video-thumb-conformance.png" alt="" class="video tiny" %} Video: Conformance Evaluation Overview {#video}
 
 {% include excol.html type="middle" %}
 
 {% include video-player.html
-    yt-id="wlCcDnL-evE"
+    yt-id="u-mOCGX8ckw"
     captions="https://media.w3.org/wai/evaluation-intros/conformance-evaluation-cc.vtt"
     descriptions=""
 %}
 
-_This video is also available on a [W3C server (file format: MP4, file size: 30MB) - Comprehensive Evaluation](http://media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4)._
+_This video is also available on a W3C server: [Video: Conformance Evaluation Overview (file format: MP4, file size: 30MB)](http://media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4)._
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
@@ -187,4 +188,4 @@ The [**WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator**]
 Who develops WCAG-EM {#wg}
 ---------------------------
 
-WCAG-EM is developed by the WCAG 2.0 Evaluation Methodology Task Force ([Eval TF](http://www.w3.org/WAI/ER/2011/eval/eval-tf)), which is a joint task force of the Web Content Accessibility Guidelines Working Group ([WCAG WG](http://www.w3.org/WAI/GL/)) and Evaluation and Repair Tools Working Group ([ERT WG](http://www.w3.org/WAI/ER/)). The Working Groups are part of the World Wide Web Consortium ([W3C](http://www.w3.org/)) Web Accessibility Initiative ([WAI](http://www.w3.org/WAI/)). 
+WCAG-EM is developed by the WCAG 2.0 Evaluation Methodology Task Force ([Eval TF](http://www.w3.org/WAI/ER/2011/eval/eval-tf)), which is a joint task force of the Web Content Accessibility Guidelines Working Group ([WCAG WG](http://www.w3.org/WAI/GL/)) and Evaluation and Repair Tools Working Group ([ERT WG](http://www.w3.org/WAI/ER/)). The Working Groups are part of the World Wide Web Consortium ([W3C](http://www.w3.org/)) Web Accessibility Initiative ([WAI](http://www.w3.org/WAI/)).
