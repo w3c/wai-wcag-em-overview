@@ -189,3 +189,4 @@ Who develops WCAG-EM {#wg}
 ---------------------------
 
 WCAG-EM is developed by the WCAG 2.0 Evaluation Methodology Task Force ([Eval TF](http://www.w3.org/WAI/ER/2011/eval/eval-tf)), which is a joint task force of the Web Content Accessibility Guidelines Working Group ([WCAG WG](http://www.w3.org/WAI/GL/)) and Evaluation and Repair Tools Working Group ([ERT WG](http://www.w3.org/WAI/ER/)). The Working Groups are part of the World Wide Web Consortium ([W3C](http://www.w3.org/)) Web Accessibility Initiative ([WAI](http://www.w3.org/WAI/)).
+
