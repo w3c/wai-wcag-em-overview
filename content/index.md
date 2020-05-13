@@ -44,7 +44,7 @@ Quick links to the resources:
 
 {% include video-player.html
     yt-id="u-mOCGX8ckw"
-    captions="conformance-evaluation-cc.vtt"
+    captions="/content-images/wai-wcag-em-overview/conformance-evaluation-cc.vtt"
     descriptions=""
 %}
 
