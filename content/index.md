@@ -2,12 +2,21 @@
 title: "WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology"
 title_html: "WCAG-EM Overview:<br>Website Accessibility Conformance Evaluation Methodology"
 nav_title: "WCAG-EM Conformance Methodology"
-permalink: /test-evaluate/conformance/wcag-em/
-ref: /test-evaluate/conformance/wcag-em/
+
 lang: en
+permalink: /test-evaluate/conformance/wcag-em/
 github:
-  repository: w3c/wai-wcag-em-overview
   path: content/index.md
+  repository: w3c/wai-wcag-em-overview
+last_updated: 2020-01-01
+# translators:   # delete the '#' and the space at the beginning of each line below that you use
+# - name: "first last"
+# contributors:
+# - name: "given family" 
+
+layout: default
+ref: /test-evaluate/conformance/wcag-em/   # translators don't change this
+
 footer: >
   <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
   <p><strong>Date:</strong> Updated 28 April 2020. First published as "Conformance Evaluation of Web Sites for Accessibility" in September 2005.</p>
