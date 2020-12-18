@@ -1,6 +1,6 @@
 _site
-.sass-cache
+.*-cache
 .jekyll-metadata
 .DS_Store
 /_external/.nosync
-/Gemfile.lock
+.netlify
