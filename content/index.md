@@ -34,7 +34,7 @@ This page introduces the Website Accessibility Conformance Evaluation Methodolog
 Quick links to the resources:
 
 -   [Website Accessibility Conformance Evaluation Methodology (WCAG-EM)](http://www.w3.org/TR/WCAG-EM/)
--   [WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator](http://www.w3.org/WAI/eval/report-tool/#/)
+-   [WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator](http://www.w3.org/WAI/eval/report-tool/)
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -192,7 +192,7 @@ WCAG-EM follows the W3C format for technical specifications which includes sever
 WCAG-EM Report Tool {#wert}
 ----------------------------
 
-The [**WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator**](http://www.w3.org/WAI/eval/report-tool/#/) helps you follow the steps of WCAG-EM and generate a structured report from the input that you provide.
+The [**WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator**](http://www.w3.org/WAI/eval/report-tool/) helps you follow the steps of WCAG-EM and generate a structured report from the input that you provide.
 
 Who develops WCAG-EM {#wg}
 ---------------------------
