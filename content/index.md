@@ -22,7 +22,6 @@ footer: >
   <p><strong>Date:</strong> Updated 28 April 2020. First published as "Conformance Evaluation of Web Sites for Accessibility" in September 2005.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the WCAG 2.0 Evaluation Methodology Task Force (<a href="https://www.w3.org/WAI/ER/2011/eval/eval-tf">Eval TF</a>). Video developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="./acknowledgements/">Acknowledgements</a>.</p>
-
 ---
 
 {::nomarkdown}
