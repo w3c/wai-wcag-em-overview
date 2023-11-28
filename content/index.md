@@ -51,10 +51,9 @@ Quick links to the resources:
 
 {% include excol.html type="middle" %}
 
-{% include video-player.html
-    yt-id="u-mOCGX8ckw"
-    captions="/content-images/wai-wcag-em-overview/conformance-evaluation-cc.vtt"
-    descriptions=""
+{% include video-player-data.html
+  video-id="conformance-evaluation"
+  yt-id="u-mOCGX8ckw"
 %}
 
 _This video is also available on a W3C server: [Video: Conformance Evaluation Overview (file format: MP4, file size: 30MB)](http://media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4)._
