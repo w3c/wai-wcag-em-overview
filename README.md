@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/62cf9e11-9c97-4c24-bfcd-74d934110f19/deploy-status)](https://app.netlify.com/sites/wai-wcag-em-overview/deploys)
+> [!IMPORTANT]
+> This repository has been archived 23 April 2024.
+>
+> [WCAG-EM Overview](https://www.w3.org/WAI/test-evaluate/conformance/wcag-em/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
